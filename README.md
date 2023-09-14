@@ -23,10 +23,10 @@ THIS IS PART OF JACOBS UNIVERSITY SOFTWARE ENGINEERING COURSE PROJECT. IT IS NOT
         - [Generate frontend documentation](#generate-frontend-documentation)
         - [Generate backend documentation](#generate-backend-documentation)
     - [Individual contributions](#individual-contributions)
-        - [Sprint 1 - 9/3/2021](#sprint-1---09032021)
-        - [Sprint 2](#sprint-2)
-        - [Sprint 3](#sprint-3)
-        - [Sprint 4](#sprint-4)
+        - [Sprint 1 ](#sprint-1---932021)
+        - [Sprint 2](#sprint-2---23032021)
+        - [Sprint 3](#sprint-3---13042021)
+        - [Sprint 4](#sprint-4---27042021)
 
 <!-- /TOC -->
 
