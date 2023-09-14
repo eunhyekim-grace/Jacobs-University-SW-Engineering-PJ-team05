@@ -191,8 +191,7 @@ The backend API documentation is served at endpoint `api/swagger/`.
 Due to time limit, we have only developed basic testing with few test cases for the components mentioned above. UI test cases and routing test cases are complex and can not be correctly tested without prior unification of both backend and frontend communication.
 
 ---
-
-## Individual Contributions 
+ 
 
 ### Sprint 2 - 23/03/2021
 
@@ -216,7 +215,6 @@ The pages can be found in the components folder and the testing can be found in 
 	
 ---
 
-## Individual Contributions
 
 ### Sprint 3 - 13/04/2021
 
@@ -232,7 +230,6 @@ The pages can be found in the components folder and the testing can be found in 
 	- Change the REST API for registration to allow to indicate the role
 	- Modify a test case to test the above change 
 
-## Individual contributions
 
 ### Sprint 4 - 27/04/2021
 
