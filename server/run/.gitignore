@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Except
+!README.md
+!.gitignore
+!static
+!media
+
+# Ignore everything inside static and media
+static/*
+media/*
+
+# Except
+!static/README.md
+!media/README.md
