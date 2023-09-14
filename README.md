@@ -1,4 +1,5 @@
 # Jacobs-University-SW-Engineering-PJ-team05
+THIS IS PART OF JACOBS UNIVERSITY SOFTWARE ENGINEERING COURSE PROJECT. IT IS NOT ALLOWED TO COPY THE CODE BUT IT IS WELLCOME TO GET SOME IDEA FOR YOUR PROJECT FROM THIS REPOSITORY :) I WORKED IN SPRINT 3 WITH Haileyesus Solomon Belete.
 
 # Beer Game
 
@@ -22,7 +23,10 @@
         - [Generate frontend documentation](#generate-frontend-documentation)
         - [Generate backend documentation](#generate-backend-documentation)
     - [Individual contributions](#individual-contributions)
-        - [Sprint 1 - 9/3/2021](#sprint-1---932021)
+        - [Sprint 1](#sprint-1)
+        - [Sprint 2](#sprint-2)
+        - [Sprint 3](#sprint-3)
+        - [Sprint 4](#sprint-4)
 
 <!-- /TOC -->
 
